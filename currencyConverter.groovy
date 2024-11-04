@@ -1,6 +1,6 @@
 print "If I give you £1, how many Euro will you give me? ";
 double euroOverPoundRatio = Double.parseDouble(System.console().readLine());
-print "If present to you 1€, how many pounds will I receive? ";
+print "If I present to you 1€, how many pounds will I receive? ";
 double poundOverEuroRatio = Double.parseDouble(System.console().readLine());
 println "OK, now I know enough.";
 boolean finished = false;
